@@ -12,6 +12,11 @@ I spend my free time climbing 🧗‍♂️, green woodworking 🪵, trail runni
 Mostly into web development with TypeScript/JS/Node, AWS, Serverless 👨‍💻. I have a physics degree and have worked in engineering/science roles 🔬
 
 #### 🌍 Open Source
- - serverless [Added mTLS access configuration for self-managed kafka event source](https://github.com/serverless/serverless/pull/10273)
- - serverless-esbuild [npm7+ support](https://github.com/floydspace/serverless-esbuild/pull/289) 
- - typedorm [fix 203 NoSuchEntityExists error](https://github.com/typedorm/typedorm/pull/214), [typos 😀](https://github.com/typedorm/typedorm/pull/202)
+ - serverless 
+   - [Added mTLS access configuration for self-managed kafka event source](https://github.com/serverless/serverless/pull/10273)
+ - serverless-esbuild 
+   - [npm7+ support](https://github.com/floydspace/serverless-esbuild/pull/289) 
+   - [chore: add e2e testing #293](https://github.com/floydspace/serverless-esbuild/pull/293)
+ - typedorm 
+   - [fix 203 NoSuchEntityExists error](https://github.com/typedorm/typedorm/pull/214)
+   - [typos 😀](https://github.com/typedorm/typedorm/pull/202)
