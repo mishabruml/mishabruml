@@ -1,12 +1,11 @@
 ### Hey! 👋
 
-I'm Misha, a software developer living in Bristol, UK. I currently work at [Kaluza](https://www.kaluza.com/) (part of the [OVO Energy](https://www.ovoenergy.com/) group)
-
+I'm Misha, a software developer living in Bristol, UK. I currently work at [Kaluza](https://www.kaluza.com/)
 ![bristolballoons](https://user-images.githubusercontent.com/25983780/159350705-3b03828f-c86d-43f9-a0e5-9b79c835e073.png)
 
 
 #### 🤸 About Me
-I spend my free time climbing 🧗‍♂️, green woodworking 🪵, trail running (badly) 🏃‍, and volunteering as a bike mechanic 🔧. I care about the planet 🌻 and try my best to do my bit. In my work, I want to engineer for a better future.
+I spend my free time climbing 🧗‍♂️, green woodworking 🪵, and volunteering as a bike mechanic 🔧. I care about the planet 🌻 and try my best to do my bit. In my work, I want to engineer for a better future.
 
 #### 🤹🏽 Skills
 Mostly into web development with TypeScript/JS/Node, AWS, Serverless 👨‍💻. I have a physics degree and have worked in engineering/science roles 🔬
